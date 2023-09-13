@@ -13,11 +13,11 @@
 <br/>
 
 <div align="center">
-    Servus bei <strong>VIERPUNKT.</strong> Der Ort für die Entwicklung von heißen <strong>Verpackungen</strong> und erfolgreichem Online-Business mit <strong>Shopware</strong> – passend zu Ihrer Marke.
+    Servus bei <strong>VIERPUNKT.</strong> Wir brennen für Design und E-Commerce. Mit Leidenschaft und Herzblut erschaffen und betreuen wir ausgezeichnete Shopware Shops und Websites. Unsere langjährige Erfahrung, der kreative Input und die interdisziplinäre Herangehensweise bei der Umsetzung bringt unseren Kunden den entscheidenden Punktvorteil.
 </div>
 
-## Was wir machen
+## Facts
 
-* Modernes und Inovatives Verpackungsdesign für Produkte aller Art
-* Shopware Shops mit Vollbetreuung für mittelständische bis Große Unternehmen
-* Kleinere Wordpress Webseiten unt Nachsorge Wie Updates und Kontentpflege
+* zertifizierte Shopware Agentur seit 2015
+* mehrfacher 'Shop Usability Award' Gewinner
+* Laufender Support und Wartungsverträge
